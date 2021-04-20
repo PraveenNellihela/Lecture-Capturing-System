@@ -1,0 +1,1 @@
+start cmd.exe /k activate tensorflow1 && C:\tensorflow1\models\research\object_detection\kalmanthreadedtest.py
